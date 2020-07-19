@@ -1,0 +1,2 @@
+# -Indexes will disallow access to the app directory. If it is +Indexes, then access is allowed.
+Options -Indexes

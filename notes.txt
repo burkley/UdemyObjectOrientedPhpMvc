@@ -1,0 +1,6 @@
+Instructor using VSCode
+Recommends the following extensions: Emmet (for HTML & CSS), Brackets, IntelliSense for PHP.
+
+Admin file for xmapp mysql: /opt/lampp/phpmyadmin/config.inc.php
+
+
